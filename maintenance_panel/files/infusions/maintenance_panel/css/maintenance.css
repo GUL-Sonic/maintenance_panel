@@ -1,0 +1,32 @@
+
+.gmt_wrap
+{
+	width: 476px;
+    height: 178px;
+    padding: 0;
+    overflow: hidden;
+}
+
+.gmt_frame
+{
+    width: 1000px;
+    height: 375px;
+    border: 0;
+
+    -ms-transform: scale(0.48);
+    -moz-transform: scale(0.48);
+    -o-transform: scale(0.48);
+    -webkit-transform: scale(0.48);
+    transform: scale(0.48);
+
+    -ms-transform-origin: 0 0;
+    -moz-transform-origin: 0 0;
+    -o-transform-origin: 0 0;
+    -webkit-transform-origin: 0 0;
+    transform-origin: 0 0;
+}
+
+.gmt_copyright {
+    color:black;
+    font-size:12px
+}
